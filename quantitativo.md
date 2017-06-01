@@ -4,4 +4,6 @@ title:  Quantitativo
 menu: true
 ---
 
-![](//assets/img/randowm.jpg)
+
+
+ ![](//assets/img/randowm.jpg)
