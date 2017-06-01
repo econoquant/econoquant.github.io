@@ -10,7 +10,7 @@ url:                 https://quantitativo.github.io
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
-baseurl:             /quantitativo
+baseurl:             ''
 
 # A very short description  of your page
 tagline:             Economia e análise de dados.
