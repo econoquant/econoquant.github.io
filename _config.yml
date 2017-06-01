@@ -2,7 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               Hydejack
+title:               Quantitativo
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages (and not using custom domains!)
@@ -13,20 +13,17 @@ url:                 https://quantitativo.github.io
 baseurl:             /quantitativo
 
 # A very short description  of your page
-tagline:             A pretentious two-column Jekyll theme.
+tagline:             Economia e análise de dados.
 
 # A longer description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:         >
-  A pretentious two-column [Jekyll](http://jekyllrb.com/) theme, stolen by
-  [`@qwtel`{:rel="me"}](https://twitter.com/qwtel) from
-  [Hyde](http://hyde.getpoole.com).
-  You could say it was.. [hydejacked](http://media3.giphy.com/media/makedRIckZBW8/giphy.gif).
+  Economia, econometria, estatística e machine learning.
 
 # This should be the same author as first in `_data/authors.yml`
 author:
-  name:              Florian Klampfer
-  email:             f.klampfer@gmail.com
+  name:              Mario Henrique F. Silveira
+  email:             endereçoemail
 
 # Fallback image and color if not overwritten
 image:               
