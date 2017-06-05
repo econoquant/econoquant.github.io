@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'v6: JavaScripten'
-tags: [EconoQaunt]
+tags: [EconoQuant]
 categories: [Exemplos]
 description: >
   The last release made the theme fast in the eyes of Google, but not so much in the eyes of its readers.
