@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Posts
+title: Arquivo
 menu: true
 order: 2
 ---
