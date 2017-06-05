@@ -1,6 +1,6 @@
 ---
 layout: about
-title: EconoQuant
+title: Sobre
 menu: true
 order: 3
 ---
