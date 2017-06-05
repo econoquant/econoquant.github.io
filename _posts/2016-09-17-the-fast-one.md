@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 'v5: The Fast One'
-tags: [hydejack]
+tags: [EconoQuant]
+categories: [Exemplos]
 description: >
   This release dramatically increases page load speed which matters to Google and visitors with slow connections alike.
 excerpt_separator: <!--more-->
