@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What's Jekyll?
+categories: [Macroeconomia, Econometria]
 tags: [hyde]
 author: mdo
 ---
