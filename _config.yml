@@ -2,11 +2,11 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               Quantitativo
+title:               EconoQuant
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages (and not using custom domains!)
-url:                 https://quantitativo.github.io
+url:                 https://econoquant.github.io
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
@@ -18,7 +18,7 @@ tagline:             Economia e análise de dados.
 # A longer description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:         >
-  Economia, econometria, estatística e machine learning.
+  Um blog sobre economia, econometria, machine learning e análise de dados com uma linguagem que até a nossa avó entenda.
 
 # This should be the same author as first in `_data/authors.yml`
 author:
