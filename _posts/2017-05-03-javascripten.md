@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 'v6: JavaScripten'
-tags: [hydejack]
+tags: [EconoQaunt]
+categories: [Exemplos]
 description: >
   The last release made the theme fast in the eyes of Google, but not so much in the eyes of its readers.
   This release addresses this by adding a layer of JavaScript, effectively turning the whole site into a single page app.
