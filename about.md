@@ -1,16 +1,23 @@
 ---
 layout: about
-title: About
+title: EconoQuant
 menu: true
 order: 3
 ---
 
-## Hydejack
-Hydejack is a complete, interactive, configureable, responsive, reactive, mobile-first, touch-enabled, animated, printable, tab-able, fast[^1], search engine-friendly and robust Jekyll theme that feels like a modern web app, while preserving what is great about *web pages*: Working URLs, hyperlinks, a working back button, a working refresh button and less than 50MB of JavaScript (tongue-in-cheek).
+## O blog
+**EconoQuant** é um blog sobre economia, mas não é só mais um blog sobre economia. Aqui você vai encontrar análises econômicas embasadas por dados e modeladas com estatística, econometria e *machine learning*. Daí o nome **EconoQuant**, de **Economia Quantitativa**, mas o "quantitativa" é mais no sentido de ánalise de dados e menos de modelos DSGE.  
 
-It can be hosted on GitHub Pages, where it has support for categories and tags, math blocks via LaTeX,
-comments via Disqus, multiple authors, a sidebar that turns into a drawer menu on mobile, two different blog layouts, a wide array of social media icons and much more. It also looks pretty good.
+É intenção do blog que, mesmo os artigos mais formais e complexos, sejam acompanhados de explicações simples e intuitivas que qualquer neto possa explicar para sua vó num almoço de domingo.  
 
-The site works all the way down to IE10. It works in IE9 if you don't need fancy animations, and even IE5 if you don't need fancy anything. Rumor has it, you can even view it via [`lynx`](http://lynx.browser.org/).
+Um dos motivos para a criação do blog é fazer previsões de variáveis macroeconomicas utilizando *machine leraning* em tempo real e compará-las com outros modelos estatísticos e econométricos. Esta é uma tarefa de médio prazo que será implementada aos poucos, modelo por modelo, que serão acompanhados de artigos explicando a metodologia utilizada.
 
-[^1]: Hydejack is fast in two different ways. Its *perceived speed* hides latency through a combination of animations and a complex pre-fetching logic. *Load speed* is achieved through inlining critical CSS and removing non-essential requests from the critical rendering path.
+Aproveitem o conteúdo, sugestões e críticas são bem-vindas.  
+
+## O autor
+Sou bacharel em economia, ao longo da faculdade fui bolsista de inciação científica e monitor de disciplinas quantitativas. Desde então venho trabalhando com dados para modelagem econômica, utilizando ferramentas interessantes como *machine learning* e o **R**. O próximo passo será um mestrado para intensificar e expandir meu estudo nesses temas e poder contribuir com a pesquisa acadêmica. continua ...
+
+Mario Henrique F. Silveira  
+mariohfsilveiar@gmail.com  
+[`LinkedIn`](https://www.linkedin.com/in/mario-henrique-f-silveira-a6785989/)
+
