@@ -3,34 +3,34 @@ layout: post
 published: true
 title: Componentes de Séries Temporais
 tags: [Estatística]
-subtitle: 'Tendências, sazonalidade e padrões cíclicos.'
+description: 'Tendências, sazonalidade e padrões cíclicos.'
 comments: true
 ---
 Séries temporais são observações coletadas ao longo do tempo. É comum aparecer em séries temporais alguns componentes como tendência, sazonalidade ou um comportamento cíclico. Iremos analisar cada um desses componentes, mostrando que é possível decompor uma série em vários componentes e também juntar esses componentes para obtermos, novamente, a série temporal.  
-
 ## Tendência: 
 
 Temos uma tendência quando há aumento ou queda de longo prazo nos dados. Não precisa ser linear e pode ocorrer mudanças de tentência nos dados, como sair de uma tendência crescente para uma decrescente.  
-
 ## Sazonalidade:
 
 Existe sazonalidade quando a série é influenciada por fatores sazonais, que podem ser trimestrais, mensais, semanais ou diários. A sazonalidade se apresenta em períodos fixos e conhecidos.  
-
 ## Cíclico:  
 
 Padrões cíclicos existem quando os dados apresentam subidas e descidas que não tem períodos fixos. É comum que essas períodos tenham pelo menos dois anos. O que diferencia os padrões cíclicos da sazonalidade é que não apresentam um período fixo e conhecido de flutuações, enquanto  as flutuações sazonais acontecem por um período possível de identificar no calendário, além da duração das flutuações cíclicas serem maiores que as sazonais.  
 
 Vale destacar que uma série temporal pode ter diferentes combinações desses componentes, ou mesmo apresentar um componente para um tempo gráfico e outros componentes se aumentarmos o período do gráfico.  
-
 ## Decomposição da Série Temporal
 
-Podemos pensar numa série temporal (\\(y_{t}\\)) como a junção de três componentes: um sazonal  (\\(S_{t}\\)), um para tendência-cíclica (\\(T_{t}\\)) e um componente para tudo o que resta. Representando o modelo de forma aditiva temos:
+Podemos pensar numa série temporal ($$y_{t}$$) como a junção de três componentes: um sazonal  ($$S_{t}$$), um para tendência-cíclica ($$T_{t}$$) e um componente para tudo o que resta. Representando o modelo de forma aditiva temos:
 
-\\[ y_{t}=S_{t}+T_{t}+E_{t}. \\]
+$$
+\begin{align*}
+y_{t}=S_{t}+T_{t}+E_{t}
+\end{align*}
+$$
 
 Ou representando o modelo em sua forma multiplicativa:
 
-\\[ y_{t}=S_{t} \times T_{t} \times E_{t}. \\]
+$$ y_{t}=S_{t} \times T_{t} \times E_{t} $$
 
 O modelo aditivo é mais apropriado quando os componentes não variam com a magnitude dos dados, já quando a variação dos componentes é proporcional à magnitude dos dados os modelos multiplicativos são preferíveis, que é o caso mais comum em economia. Uma alternativa é utlilizar o logarítmo para transformar um modelo multiplicativo em aditivo.
 
