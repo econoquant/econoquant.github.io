@@ -18,12 +18,13 @@ tagline:             Economia e análise de dados.
 # A longer description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:         >
-  'Um blog sobre economia, econometria, machine learning e análise de dados com uma linguagem que qualquer avó entenda.  
-    
-      
-        
-          
-          '
+
+
+
+
+
+  Um blog sobre economia, econometria, machine learning e análise de dados com uma linguagem que qualquer avó entenda.  
+               
                     
 # This should be the same author as first in `_data/authors.yml`
 author:
