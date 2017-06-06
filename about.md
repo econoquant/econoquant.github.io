@@ -15,7 +15,7 @@ Um dos motivos para a criação do blog é fazer previsões de variáveis macroe
 Aproveitem o conteúdo, sugestões e críticas são bem-vindas.  
 
 ## O autor
-Sou bacharel em economia, ao longo da faculdade fui bolsista de inciação científica e monitor de disciplinas quantitativas. Desde então venho trabalhando com dados para modelagem econômica, utilizando ferramentas interessantes como *machine learning* e o **R**, e de olho em outras linguagens como Python e Julia. Acredito que a programação será cada vez mais importante no estudo de economia.
+Sou bacharel em economia, ao longo da faculdade fui bolsista de inciação científica e monitor de disciplinas quantitativas. Desde então venho trabalhando com dados para modelagem econômica, utilizando ferramentas interessantes como *machine learning* e o **R**, e de olho em outras linguagens como Python e Julia. Acredito que a habilidade de programar será cada vez mais importante no estudo de economia.
 
 Mario Henrique F. Silveira  
 mariohfsilveiar@gmail.com  
