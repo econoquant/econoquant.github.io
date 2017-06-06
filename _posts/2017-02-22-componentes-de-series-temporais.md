@@ -20,7 +20,7 @@ Padrões cíclicos existem quando os dados apresentam subidas e descidas que nã
 Vale destacar que uma série temporal pode ter diferentes combinações desses componentes, ou mesmo apresentar um componente para um tempo gráfico e outros componentes se aumentarmos o período do gráfico.  
 ## Decomposição da Série Temporal
 
-Podemos pensar numa série temporal ($$y_{t}$$) como a junção de três componentes: um sazonal  ($$S_{t}$$), um para tendência-cíclica ($$T_{t}$$) e um componente para tudo o que resta. Representando o modelo de forma aditiva temos:
+Podemos pensar numa série temporal ($$y_{t}$$) como a junção de três componentes: um sazonal  ($$S_{t}$$), um para tendência-cíclica ($$T_{t}$$) e um componente para tudo o que resta ($$E_{t}$$). Representando o modelo de forma aditiva temos:
 
 $$ y_{t}=S_{t}+T_{t}+E_{t} $$
 
