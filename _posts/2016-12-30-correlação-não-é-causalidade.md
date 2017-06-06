@@ -31,7 +31,7 @@ O segundo gráfico tem a taxa de divórcio em Maine (linha vermelha) e o consumo
 
 Vamos proibir as propagandas de margarina na tv?
 
-O terceiro gŕafico tras o consumo de muçarela (linha vermelha) e doutorados obtidos em engenharia civil (linha preta).  
+O terceiro gŕafico traz o consumo de muçarela (linha vermelha) e doutorados obtidos em engenharia civil (linha preta).  
 
 ![chart2.jpeg]({{site.baseurl}}/assets/img/chart2.jpeg)  
 
