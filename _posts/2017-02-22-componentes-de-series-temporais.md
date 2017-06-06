@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Componentes de Séries Temporais
 tags: [Estatística]
-description: 'Tendências, sazonalidade e padrões cíclicos.'
+description: Tendências, sazonalidade e padrões cíclicos.
 comments: true
 ---
 Séries temporais são observações coletadas ao longo do tempo. É comum aparecer em séries temporais alguns componentes como tendência, sazonalidade ou um comportamento cíclico. Iremos analisar cada um desses componentes, mostrando que é possível decompor uma série em vários componentes e também juntar esses componentes para obtermos, novamente, a série temporal.  
@@ -22,11 +22,7 @@ Vale destacar que uma série temporal pode ter diferentes combinações desses c
 
 Podemos pensar numa série temporal ($$y_{t}$$) como a junção de três componentes: um sazonal  ($$S_{t}$$), um para tendência-cíclica ($$T_{t}$$) e um componente para tudo o que resta. Representando o modelo de forma aditiva temos:
 
-$$
-\begin{align*}
-y_{t}=S_{t}+T_{t}+E_{t}
-\end{align*}
-$$
+$$ y_{t}=S_{t}+T_{t}+E_{t} $$
 
 Ou representando o modelo em sua forma multiplicativa:
 
@@ -38,7 +34,7 @@ Abaixo o gráfico da série temporal de índice de equipamentos eletrônicos que
 
 ![ind-equi-ele.png]({{site.baseurl}}/assets/img/ind-equi-ele.png)  
 
-Na cor preta temos a série temporal (\\( y_{t} \\)), e foi acrescentado uma linha de tentência vermelha, não estamos destacando  sazonalidade e flutuaçoea aleatórias aqui.
+Na cor preta temos a série temporal ($$ y_{t} $$), e foi acrescentado uma linha de tentência vermelha, não estamos destacando  sazonalidade e flutuaçoea aleatórias aqui.
 
 Fazendo a decomposição da série podemos representar cada um de seus componentes:
 
