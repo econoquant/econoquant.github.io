@@ -18,6 +18,5 @@ Aproveitem o conteúdo, sugestões e críticas são bem-vindas.
 Sou bacharel em economia, ao longo da faculdade fui bolsista de inciação científica e monitor de disciplinas quantitativas. Desde então venho trabalhando com dados para modelagem econômica, utilizando ferramentas interessantes como *machine learning* e o **R**, e de olho em outras linguagens como Python e Julia. Acredito que a habilidade de programar será cada vez mais importante no estudo de economia.
 
 Mario Henrique F. Silveira  
-mariohfsilveiar@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/mario-henrique-f-silveira-a6785989/)
+
 
