@@ -3,7 +3,7 @@
 # Change `qwtel` to your shortname (used in the front matter to set a page's author, e.g. `author: qwtel`).
 mario:
   name:              Mario Henrique F. Silveira
-  email:             f.klampfer@gmail.com
+  email:             mariohfsilveira@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -56,5 +56,5 @@ mario:
     # delicious:       _username_
     # stumbleupon:     _username_
     # paypal:          _username_
-    # email:           mailto:f.klampfer@gmail.com
-# rss:             //qwtel.com/feed.xml
+    email:           mailto:mariohfsilveira@gmail.com
+  rss:             //econoquant.github.io/feed.xml
