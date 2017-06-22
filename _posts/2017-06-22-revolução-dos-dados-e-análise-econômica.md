@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Revolução dos dados e análise econômica
 tags:
