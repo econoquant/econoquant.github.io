@@ -22,7 +22,7 @@ Sejam bem-vindos ao **EconoQuant**!
 
 ## O autor
 Em 2011 iniciei o curso de Economia e ainda esse ano comecei a ter contato com pesquisa 
-acadêmica, participando da 63ª edição da SBPC. Em 2012 me torno bolsista FAPEMIG de 
+acadêmica, participando da 63ª reunião anual da SBPC. Em 2012 me torno bolsista FAPEMIG de 
 iniciação científica e monitor de Microeconomia.
 
 Na inciação científica foi onde comecei a utilizar dados para encontrar evidências 
