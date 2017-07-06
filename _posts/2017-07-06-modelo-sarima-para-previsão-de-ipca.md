@@ -13,16 +13,20 @@ Este artigo é motivado por Saz (2011) que analisou a eficácia do modelo SARIMA
 ### O modelo SARIMA
 
 É chamado de SARIMA o modelo ARIMA com ajuste sazonal (*Seasonal ARIMA*). Ok, mas o que é ARIMA? O ARIMA integra dois modelos, um Auto Regressivo de ordem $$p$$ e um modelo de  Média Móvel de ordem $$q$$, formando uma ARIMA($$p,d,q$$).
-#### AR($$p$$)
+
+**AR($$p$$)**
 
 A parte autoregressiva do  modelo  faz a previsão utilizando uma combinação linear dos valores passados da variável. O $$p$$ do AR($$p$$) indica quantos valores passados o modelo vai utlizar, um AR(2) faz uso de dois valores passados da série.
-#### MA($$q$$)
+
+**MA($$q$$)**
 
 O modelo de médias móveis vai uttlizar os erros de previsão passados, de forma que o valor previsto séra uma média móvel ponderada dos erros de previsão passados. O $$q$$ do MA($$q$$), assim como no AR($$p$$), indica quantos *lags* são utilizados no modelo.
-#### ARIMA($$p,d,q$$)
+
+**ARIMA($$p,d,q$$)**
 
 No ARIMA($$p,d,q$$) o $$p$$ se refere à ordem do AR, o $$q$$ à ordem da MA e o $$d$$ diz quantas vezes a série precisou ser diferenciada para ficar estacionária. Em um ARIMA($$p,0,q$$), o zero mostra que a série já era estacionária e não precisou ser diferenciada, num ARIMA($$p,1,q$$) a série foi diferenciada uma vez.
-#### ARIMA($$p,d,q)(P,D,Q)_{m}$$
+
+**ARIMA($$p,d,q)(P,D,Q)_{m}$$**
 
 O SARIMA é representado como um ARIMA($$p,d,q)(P,D,Q)_{m}$$, em que ($$P,D,Q$$) representa a parte sazonal do modelo e $$m$$ reoresenta o número de períodos por sazonalidade.
 
