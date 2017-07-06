@@ -8,7 +8,6 @@ comments: true
 ---
 
 Este artigo é motivado por Saz (2011) que analisou a eficácia do modelo SARIMA para a previsão de inflação na Turquia utilizando o algoritmo Hyndman-Khandakar (HK) para derivar o SARIMA. E por Bonno (2014) que compara o modelo SARIMA com um modelo estrutural para previsão de curto prazo de IPCA, encontrando um desempenho superior para o modelo SARIMA no curto prazo.
-
 ### O modelo SARIMA
 
 É chamado de SARIMA o modelo ARIMA com ajuste sazonal (*Seasonal ARIMA*). Ok, mas o que é ARIMA? O ARIMA integra dois modelos, um Auto Regressivo de ordem $$p$$ e um modelo de  Média Móvel de ordem $$q$$, formando uma ARIMA($$p,d,q$$).
