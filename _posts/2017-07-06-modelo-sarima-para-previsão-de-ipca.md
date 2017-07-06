@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Modelo SARIMA para previsão de IPCA
 tags: [Econometria, Séries Temporais]
 description: Utilizando função auto.arima() no R
