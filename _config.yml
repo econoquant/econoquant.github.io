@@ -26,7 +26,7 @@ author:
   email:             
 
 # Fallback image and color if not overwritten
-image:               /assets/img/stock.jpg
+# image:               /assets/img/stock.jpg
 color:               '#413839'
 
 # Remove to disable Google Fonts
