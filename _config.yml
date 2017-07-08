@@ -27,7 +27,7 @@ author:
 
 # Fallback image and color if not overwritten
 # image:               /assets/img/stock.jpg
-color:               '#413839'
+color:               '#000000'
 
 # Remove to disable Google Fonts
 google_fonts:        Roboto+Slab:700|Noto+Serif:400,400i,700,700i
