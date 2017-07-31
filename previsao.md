@@ -5,7 +5,7 @@ menu: true
 order: 1
 ---
 
-**Previsão Macro** é um projeto de modelagem e previsão das principais variáveis macroeconômicas. Novos modelos serão apresentados aos poucos, até completarmos um *portfolio* de modelos estatísticos, econométricos e *machine learning*. 
+**Previsão Macro** é um projeto de modelagem e previsão das principais variáveis macroeconômicas. Novos modelos serão apresentados aos poucos, até completarmos um *portfolio* de modelos estatísticos e econométricos. 
 
 -----------------------------------------------------------------------------------------------------------------------------
 
