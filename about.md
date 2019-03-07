@@ -20,17 +20,4 @@ o nosso projeto de Previsões Macro.
 
 Sejam bem-vindos ao **EconoQuant**!
 
-## O autor
-Em 2011 iniciei o curso de Economia e ainda esse ano comecei a ter contato com pesquisa 
-acadêmica, participando da 63ª reunião anual da SBPC. Em 2012 me torno bolsista FAPEMIG de 
-iniciação científica e monitor de Microeconomia.
-
-Na inciação científica foi onde comecei a utilizar dados para encontrar evidências 
-para os problemas que apareciam, foi onde conheci ferramentas bacanas como o R. A 
-partir de então meus anos na faculdade foram dedicados à pesquisa e monitoria (Microeconomia, 
-Matemática e Econometria).
-
-Em 2015, já formado, segui dando aulas particulares e fazendo modelagens econométricas 
-sob demanda. Em 2016 começo a operar na bolsa de valores por conta própria, dos ativos 
-que operei, o que mais gostei e tive melhores resultados foi dólar futuro. Porém a
 
