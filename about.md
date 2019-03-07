@@ -32,17 +32,5 @@ Matemática e Econometria).
 
 Em 2015, já formado, segui dando aulas particulares e fazendo modelagens econométricas 
 sob demanda. Em 2016 começo a operar na bolsa de valores por conta própria, dos ativos 
-que operei, o que mais gostei e tive melhores resultados foi dólar futuro. Porém a 
-Hipótese dos Mercados Eficientes, que eu já conhecia na teoria, se mostrou que também 
-era muito forte na prática (pelo menos para um trader autônomo operando de casa).
-
-No final de 2016 iniciei o blog EcoMachine no Wordpress para escrever sobre aplicações 
-de Machine Learning em Economia e Finanças. Em 2017 o EconoQuant tem início, começando 
-quase do zero, utilizando o Jekyll hospedado no GitHub.
-
-Para mais detalhes e contato é só clicar no ícones  do LinkedIn e email no canto da 
-página. 
-
-Mario Henrique F. Silveira
-
+que operei, o que mais gostei e tive melhores resultados foi dólar futuro. Porém a
 
